@@ -2,7 +2,7 @@
   <h1><b>Hi there, I am Van Duc! 😄</b></h1>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ngvnduc/">
+  <a href="https://www.linkedin.com/in/ngvnduc">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/vd.ngn.1">
@@ -14,6 +14,5 @@
 </div>
 <div align="center">
   <br>I am a college student currently studying「 Smart embedded systems & IoT 」🧑🏼‍🎓📖 
-  <br>🌏: Ha Noi, Viet Nam ![image](https://github.com/ngvnduck/ngvnduck/assets/119344467/d45b1253-13f3-47a2-b252-66f6c6d9b971)
-
+  <br>🌏: Ha Noi, Viet Nam <img src="https://raw.githubusercontent.com/ngvnduck/ngvnduck/main/vn.png"/>
 </div>
