@@ -30,7 +30,6 @@ Vietnamese <img src="https://raw.githubusercontent.com/ngvnduck/ngvnduck/main/ic
  | English <img src="https://raw.githubusercontent.com/ngvnduck/ngvnduck/main/icon/gb.png"/>
  | Japanese <img src="https://raw.githubusercontent.com/ngvnduck/ngvnduck/main/icon/jp.png"/>
 </p>
-
 <div>
   <h1>🛠️Languages and Tools</h1>
 </div>
