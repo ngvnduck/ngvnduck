@@ -37,19 +37,19 @@ Vietnamese <img src="icon/vn.png"/>
   <h1>🛠️Languages and Tools</h1>
 </div>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/703d6322-6294-4adb-8557-988161f49bcf" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/054c0870-0c31-4200-a5b0-2c0ba101ed1f" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/35719a51-3188-457d-a57d-b21dc55888e7" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/47a1d1b0-fb1f-4b0b-8613-abdd05d02385" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/061ff817-3e75-4434-a921-6cc342bf97b3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/2a9f1c5b-298b-439d-9355-c27892fc1f96" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/06fc364d-c761-4e77-bba8-aebb0e09ddfb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/3b6186a8-4556-456a-a2b3-4836fd877b32" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/703d6322-6294-4adb-8557-988161f49bcf" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/054c0870-0c31-4200-a5b0-2c0ba101ed1f" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/35719a51-3188-457d-a57d-b21dc55888e7" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/47a1d1b0-fb1f-4b0b-8613-abdd05d02385" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/061ff817-3e75-4434-a921-6cc342bf97b3" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/2a9f1c5b-298b-439d-9355-c27892fc1f96" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/06fc364d-c761-4e77-bba8-aebb0e09ddfb" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/3b6186a8-4556-456a-a2b3-4836fd877b32" width="60" height="60"/>&nbsp;
 </div>
 <div>
   <h1>"   "</h1>
