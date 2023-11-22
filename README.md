@@ -51,5 +51,13 @@ Vietnamese <img src="icon/vn.png"/>
   <img src="https://github.com/ngvnduck/ngvnduck/assets/119344467/3b6186a8-4556-456a-a2b3-4836fd877b32" width="80" height="60"/>&nbsp;
 </div>
 <div>
-  <h1>"   "</h1>
+  <h1></h1>
+</div>
+<br>
+<div align="center">
+  <em>Feel free to contact me at anytime <br>
+  Thanks for visiting my GitHub 🚀
+  </em>
+  <h1>⚡Stay positive, work hard, make it happen⚡</h1>
+  <img src="https://media.tenor.com/kR7OOCL-nroAAAAC/ryo-yamada-thumbs-up.gif"/>
 </div>
