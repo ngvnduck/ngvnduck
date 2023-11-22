@@ -14,5 +14,6 @@
 </div>
 <div align="center">
   <br>I am a college student currently studying「 Smart embedded systems & IoT 」🧑🏼‍🎓📖 
-  <br>🌏: Ha Noi, Viet Nam ![Custom Icon](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png)
+  <br>🌏: Ha Noi, Viet Nam ![image](https://github.com/ngvnduck/ngvnduck/assets/119344467/d45b1253-13f3-47a2-b252-66f6c6d9b971)
+
 </div>
